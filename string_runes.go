@@ -1,5 +1,8 @@
 package main
 
+
+//   print output, scan input, and format strings
+
 import (
 	"fmt"
 	"unicode/utf8"

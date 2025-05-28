@@ -34,7 +34,11 @@ func main() {
 
 	   sqlQuery := `SELECT * FROM users WHERE age > 30`
 
-	   fmt.Printf("%s",sqlQuery)
+	   fmt.Printf("%s\n",sqlQuery)
+
+	   msg := fmt.Sprintf("Hello %s", "Aman")
+	   fmt.Println(msg) // Hello Aman
+
 
 
 
