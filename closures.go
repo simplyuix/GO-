@@ -8,6 +8,8 @@ import (
      Closure is something like { A function which return as a function } so, you can store the returned function ans use it many times
 	 The main function is not instantiated evryting, until we can't call it directly 
 
+	 functions for Maintaing states, without exposition the variable
+
     
 
 
